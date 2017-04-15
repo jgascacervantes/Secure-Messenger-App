@@ -31,6 +31,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.amazonaws.services.s3.AmazonS3;
+import com.amazonaws.services.s3.AmazonS3Client;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -302,6 +305,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
         private final String mEmail;
         private final String mPassword;
+        //private final String credentialsProvider; TODO: credentials
         Context context;
         UserLoginTask(String email, String password, Context context) {
             mEmail = email;
@@ -314,7 +318,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             // TODO: attempt authentication against a network service.
 
             try {
-                // Simulate network access.
+                // TODO: get credentials
+                //AmazonS3 s3 = new AmazonS3Client(credentialsProvider);
+                //TransferUtility transferUtility = new TransferUtility(s3, context);
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
                 return false;
