@@ -31,8 +31,15 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.amazonaws.AmazonServiceException;
+import com.amazonaws.mobile.AWSMobileClient;
+import com.amazonaws.models.nosql.UsersDO;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3Client;
+import com.amazonaws.auth.CognitoCachingCredentialsProvider;
+import com.amazonaws.regions.Regions;
+import com.amazonaws.services.dynamodbv2.*;
+import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -305,12 +312,16 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
         private final String mEmail;
         private final String mPassword;
-        //private final String credentialsProvider; TODO: credentials
+        private DynamoDBMapper mapper;
+        UsersDO user;
         Context context;
+
         UserLoginTask(String email, String password, Context context) {
             mEmail = email;
             mPassword = password;
             this.context = context;
+            user = null;
+            mapper = AWSMobileClient.defaultMobileClient().getDynamoDBMapper();
         }
 
         @Override
@@ -318,23 +329,25 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             // TODO: attempt authentication against a network service.
 
             try {
-                // TODO: get credentials
-                //AmazonS3 s3 = new AmazonS3Client(credentialsProvider);
-                //TransferUtility transferUtility = new TransferUtility(s3, context);
-                Thread.sleep(2000);
-            } catch (InterruptedException e) {
+                user = mapper.load(UsersDO.class, mEmail);
+
+            } catch (AmazonServiceException ase) {
                 return false;
             }
+            if(user != null)
+                return user.getPassword().equals(mPassword);
 
-            for (String credential : DUMMY_CREDENTIALS) {
-                String[] pieces = credential.split(":");
-                if (pieces[0].equals(mEmail)) {
-                    // Account exists, return true if the password matches.
-                    return pieces[1].equals(mPassword);
-                }
-            }
 
             // TODO: register the new account here.
+            user.setDeviceID("00000");
+            user.setPassword(mPassword);
+            user.setRights(true);
+            user.setUsername(mEmail);
+            try{
+                mapper.save(user);
+            } catch (AmazonServiceException aws){
+                return false;
+            }
             return true;
         }
 
