@@ -20,6 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name=".Application">
+        android:debuggable="true"
         <activity
             android:name=".LoginActivity"
             android:label="@string/app_name">
