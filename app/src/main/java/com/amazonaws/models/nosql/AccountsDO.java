@@ -2,12 +2,11 @@ package com.amazonaws.models.nosql;
 
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBAttribute;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBHashKey;
-import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBRangeKey;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBTable;
 
-@DynamoDBTable(tableName = "nftapp-mobilehub-2060986407-Users")
+@DynamoDBTable(tableName = "nftapp-mobilehub-2060986407-Accounts")
 
-public class UsersDO {
+public class AccountsDO {
     private String _username;
     private String _deviceID;
     private String _password;
@@ -22,7 +21,6 @@ public class UsersDO {
     public void setUsername(final String _username) {
         this._username = _username;
     }
-    @DynamoDBRangeKey(attributeName = "Device ID")
     @DynamoDBAttribute(attributeName = "Device ID")
     public String getDeviceID() {
         return _deviceID;

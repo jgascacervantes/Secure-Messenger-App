@@ -36,6 +36,7 @@ import com.amazonaws.AmazonClientException;
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.mobile.AWSMobileClient;
 import com.amazonaws.models.nosql.UsersDO;
+import com.amazonaws.models.nosql.AccountsDO;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3Client;
 import com.amazonaws.auth.CognitoCachingCredentialsProvider;
@@ -310,7 +311,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         private final String mEmail;
         private final String mPassword;
         private DynamoDBMapper mapper;
-        UsersDO user;
+        //UsersDO user;
+        AccountsDO user;
         Context context;
 
         UserLoginTask(String email, String password, Context context) {
@@ -325,7 +327,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         @Override
         protected Boolean doInBackground(Void... params) {
             try {
-                user = mapper.load(UsersDO.class, mEmail);
+                //user = mapper.load(UsersDO.class, mEmail);
+                user = mapper.load(AccountsDO.class, mEmail);
 
             } catch (AmazonServiceException ase) {
                 System.err.print(ase.getErrorMessage());
