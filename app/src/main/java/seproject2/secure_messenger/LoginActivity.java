@@ -202,7 +202,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     private boolean isEmailValid(String email) {
         //TODO: Replace this with your own logic
-        return email.contains("@");
+        //return email.contains("@");
+        return true;
     }
 
     private boolean isPasswordValid(String password) {
@@ -337,7 +338,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             if(user != null)
                 return user.getPassword().equals(mPassword);
 
-            //temp
+            /*temp
             user = new UsersDO();
             user.setDeviceID(mPassword);
             user.setPassword(mPassword);
@@ -350,8 +351,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             } catch (AmazonClientException ace) {
                 return false;
             }
-
-            return true;
+            */
+            return false;
         }
 
         @Override
