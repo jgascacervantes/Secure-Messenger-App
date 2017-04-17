@@ -21,6 +21,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.ContactsContract;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -31,6 +32,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.amazonaws.AmazonClientException;
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.mobile.AWSMobileClient;
 import com.amazonaws.models.nosql.UsersDO;
@@ -58,13 +60,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     
     private static final int REQUEST_READ_CONTACTS = 0;
 
-    /**
-     * A dummy authentication store containing known user names and passwords.
-     * TODO: remove after connecting to a real authentication system.
-     */
-    private static final String[] DUMMY_CREDENTIALS = new String[]{
-            "foo@example.com:hello", "bar@example.com:world"
-    };
+
     /**
      * Keep track of the login task to ensure we can cancel it if requested.
      */
@@ -321,33 +317,40 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             mPassword = password;
             this.context = context;
             user = null;
+            AWSMobileClient.initializeMobileClientIfNecessary(context);
             mapper = AWSMobileClient.defaultMobileClient().getDynamoDBMapper();
         }
 
         @Override
         protected Boolean doInBackground(Void... params) {
-            // TODO: attempt authentication against a network service.
-
             try {
                 user = mapper.load(UsersDO.class, mEmail);
 
             } catch (AmazonServiceException ase) {
-                return false;
+                System.err.print(ase.getErrorMessage());
+
+            } catch (AmazonClientException ace) {
+                System.err.println(ace.getMessage());
+
             }
+
             if(user != null)
                 return user.getPassword().equals(mPassword);
 
-
-            // TODO: register the new account here.
-            user.setDeviceID("00000");
+            //temp
+            user = new UsersDO();
+            user.setDeviceID(mPassword);
             user.setPassword(mPassword);
-            user.setRights(true);
+            user.setRights(false);
             user.setUsername(mEmail);
             try{
                 mapper.save(user);
-            } catch (AmazonServiceException aws){
+            } catch (AmazonServiceException aws){ //TODO getting this exception when registering acc
+                return false;
+            } catch (AmazonClientException ace) {
                 return false;
             }
+
             return true;
         }
 
@@ -359,7 +362,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             myIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             if (success) {
                 startActivity(myIntent);
-                //finish();
+                finish();
             } else {
                 mPasswordView.setError(getString(R.string.error_incorrect_password));
                 mPasswordView.requestFocus();

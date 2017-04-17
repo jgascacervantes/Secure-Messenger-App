@@ -28,7 +28,7 @@ public class UsersDO {
     public void setUsername(final String _username) {
         this._username = _username;
     }
-    @DynamoDBRangeKey(attributeName = "Device ID")
+    //@DynamoDBRangeKey(attributeName = "Device ID")
     @DynamoDBAttribute(attributeName = "Device ID")
     public String getDeviceID() {
         return _deviceID;
