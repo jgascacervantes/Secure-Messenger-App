@@ -6,6 +6,7 @@ import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.provider.Settings;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -44,6 +45,7 @@ import com.amazonaws.regions.Regions;
 import com.amazonaws.services.dynamodbv2.*;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.*;
 
+import java.security.Security;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -310,9 +312,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
         private final String mEmail;
         private final String mPassword;
+        private final String deviceID;
         private DynamoDBMapper mapper;
-        //UsersDO user;
-        AccountsDO user;
+        private AccountsDO user;
         Context context;
 
         UserLoginTask(String email, String password, Context context) {
@@ -320,6 +322,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             mPassword = password;
             this.context = context;
             user = null;
+            deviceID = Settings.Secure.ANDROID_ID;
             AWSMobileClient.initializeMobileClientIfNecessary(context);
             mapper = AWSMobileClient.defaultMobileClient().getDynamoDBMapper();
         }
@@ -327,7 +330,6 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         @Override
         protected Boolean doInBackground(Void... params) {
             try {
-                //user = mapper.load(UsersDO.class, mEmail);
                 user = mapper.load(AccountsDO.class, mEmail);
 
             } catch (AmazonServiceException ase) {
@@ -338,23 +340,25 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
             }
 
-            if(user != null)
-                return user.getPassword().equals(mPassword);
-
-            /*temp
-            user = new UsersDO();
-            user.setDeviceID(mPassword);
+            if(user != null) {
+                //if (user.getDeviceID().equals(deviceID)) //TODO: we can check for deviceID using this
+                    return user.getPassword().equals(mPassword);
+            }
+            /*
+            user = new AccountsDO();
+            user.setDeviceID(deviceID);
             user.setPassword(mPassword);
-            user.setRights(false);
+            user.setRights(true);
             user.setUsername(mEmail);
             try{
                 mapper.save(user);
-            } catch (AmazonServiceException aws){ //TODO getting this exception when registering acc
+            } catch (AmazonServiceException aws){
                 return false;
             } catch (AmazonClientException ace) {
                 return false;
             }
             */
+
             return false;
         }
 
