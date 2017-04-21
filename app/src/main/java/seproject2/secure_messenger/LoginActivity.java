@@ -341,7 +341,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             }
 
             if(user != null) {
-                //if (user.getDeviceID().equals(deviceID)) //TODO: we can check for deviceID using this
+                if (user.getDeviceID().equals(deviceID)) //TODO: we can check for deviceID using this
                     return user.getPassword().equals(mPassword);
             }
             /*
