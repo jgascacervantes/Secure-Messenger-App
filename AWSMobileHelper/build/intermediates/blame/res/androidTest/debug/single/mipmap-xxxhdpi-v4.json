@@ -1,74 +1,26 @@
 [
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_twitter.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_twitter.png"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_amazon_pressed.png",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_amazon_pressed.png"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_login_pressed.png"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_amazon.png",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_amazon.png"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_amazon.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_amazon.png"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_twitter_pressed.png",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_twitter_pressed.png"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_twitter.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_twitter.png"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_login.png",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_login.png"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_login.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_login.png"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_login_pressed.png",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_login_pressed.png"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_twitter_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_twitter_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_login_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_login_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_login.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_login.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_amazon_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_amazon_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_amazon.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_amazon.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_twitter_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_twitter_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_amazon_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_amazon_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_twitter.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_twitter.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_amazon_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_amazon_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_amazon.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_amazon.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\button_login.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\button_login.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_login_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_login_pressed.png"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_twitter_pressed.png",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_twitter_pressed.png"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/button_twitter.png",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/button_twitter.png"
     }
 ]

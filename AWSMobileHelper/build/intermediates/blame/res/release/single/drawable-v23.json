@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\drawable-v23\\abc_control_background_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\drawable-v23\\abc_control_background_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable-v23/abc_control_background_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

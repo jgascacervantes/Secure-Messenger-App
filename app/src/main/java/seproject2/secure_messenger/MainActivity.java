@@ -7,10 +7,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+import android.content.Intent;
 
 import seproject2.secure_messenger.dummy.DummyContent;
 
 public class MainActivity extends AppCompatActivity implements InboxFragment.OnListFragmentInteractionListener {
+
+    private static FloatingActionButton button_X;
+
+
+    View.OnClickListener mOnClickListener;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,9 +30,19 @@ public class MainActivity extends AppCompatActivity implements InboxFragment.OnL
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "start a new message", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                        .setAction("SEND", mOnClickListener).show();
             }
         });
+        //ShowContactsListener();
+
+
+        mOnClickListener = new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent("seproject2.secure_messenger.Messenger");
+                startActivity(intent);
+            }
+        };
     }
 
 

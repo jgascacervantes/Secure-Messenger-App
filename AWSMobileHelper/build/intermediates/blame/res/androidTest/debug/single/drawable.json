@@ -1,446 +1,150 @@
 [
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_vector_test.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/selector_button_login.xml",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/drawable/selector_button_login.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/selector_button_amazon.xml",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/drawable/selector_button_amazon.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_button_amazon.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_button_amazon.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_button_login.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_button_login.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/selector_button_twitter.xml",
+        "source": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/drawable/selector_button_twitter.xml"
     },
     {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_button_twitter.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_button_twitter.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/selector_button_twitter.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/drawable/selector_button_twitter.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_button_login.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_button_login.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/selector_button_login.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/drawable/selector_button_login.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_button_amazon.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_button_amazon.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_button_twitter.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_button_twitter.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/jorge/.android/build-cache/08f93770cf0d3e01df2319b4a4fe5b92924aa0e0/output/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/selector_button_amazon.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/bundles/debug/res/drawable/selector_button_amazon.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/H:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/Volumes/MEGA_BADASS/AndroidStudioProjects/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/ec2d04d15c691ca0a3b26eac6d5d6c6190a178cf/output/res/drawable/abc_switch_thumb_material.xml"
     }
 ]
