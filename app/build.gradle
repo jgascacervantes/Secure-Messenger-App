@@ -29,6 +29,9 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile project(':AWSMobileHelper')
+    compile 'com.google.android.gms:play-services:10.2.1'
+    compile 'com.google.android.gms:play-services-plus:10.2.1'
+    compile 'com.amazonaws:aws-android-sdk-sns:2.3.9'
     compile 'com.android.support:appcompat-v7:25.3.0'
     compile 'com.android.support:design:25.3.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'

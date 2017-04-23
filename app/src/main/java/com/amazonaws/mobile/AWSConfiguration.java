@@ -25,6 +25,20 @@ public class AWSConfiguration {
       Regions.fromName("us-east-1");
     public static final String  AMAZON_COGNITO_IDENTITY_POOL_ID =
         "us-east-1:4cc7d97d-a089-4afc-b0ea-4ad6aeab6d4e";
+    // GOOGLE CLOUD MESSAGING SENDER ID
+    public static final String GOOGLE_CLOUD_MESSAGING_SENDER_ID =
+        "620042068239";
+    // SNS PLATFORM APPLICATION ARN
+    public static final String AMAZON_SNS_PLATFORM_APPLICATION_ARN =
+        "arn:aws:sns:us-east-1:806052491984:app/GCM/nftapp_MOBILEHUB_2060986407";
+    public static final Regions AMAZON_SNS_REGION =
+         Regions.fromName("us-east-1");
+    // SNS DEFAULT TOPIC ARN
+    public static final String AMAZON_SNS_DEFAULT_TOPIC_ARN =
+        "arn:aws:sns:us-east-1:806052491984:nftapp_alldevices_MOBILEHUB_2060986407";
+    // SNS PLATFORM TOPIC ARNS
+    public static final String[] AMAZON_SNS_TOPIC_ARNS =
+        {};
     public static final Regions AMAZON_DYNAMODB_REGION =
        Regions.fromName("us-east-1");
 

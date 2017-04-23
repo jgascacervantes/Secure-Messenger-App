@@ -12,6 +12,8 @@ import android.content.Context;
 import android.util.Log;
 
 import com.amazonaws.ClientConfiguration;
+import com.amazonaws.mobile.push.GCMTokenHelper;
+import com.amazonaws.mobile.push.PushManager;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBMapper;
 import com.amazonaws.mobilehelper.auth.IdentityManager;
 import com.amazonaws.regions.Region;
@@ -31,6 +33,8 @@ public class AWSMobileClient {
 
     private ClientConfiguration clientConfiguration;
     private IdentityManager identityManager;
+    private GCMTokenHelper gcmTokenHelper;
+    private PushManager pushManager;
     private AmazonDynamoDBClient dynamoDBClient;
     private DynamoDBMapper dynamoDBMapper;
 
@@ -116,6 +120,18 @@ public class AWSMobileClient {
         this.identityManager = identityManager;
         this.clientConfiguration = clientConfiguration;
 
+        this.gcmTokenHelper = new GCMTokenHelper(context, AWSConfiguration.GOOGLE_CLOUD_MESSAGING_SENDER_ID);
+        this.pushManager =
+            new PushManager(context,
+                            gcmTokenHelper,
+                            identityManager.getCredentialsProvider(),
+                            AWSConfiguration.AMAZON_SNS_PLATFORM_APPLICATION_ARN,
+                            clientConfiguration,
+                            AWSConfiguration.AMAZON_SNS_DEFAULT_TOPIC_ARN,
+                            AWSConfiguration.AMAZON_SNS_TOPIC_ARNS,
+                            AWSConfiguration.AMAZON_SNS_REGION);
+        gcmTokenHelper.init();
+
         this.dynamoDBClient = new AmazonDynamoDBClient(identityManager.getCredentialsProvider(), clientConfiguration);
         this.dynamoDBClient.setRegion(Region.getRegion(AWSConfiguration.AMAZON_DYNAMODB_REGION));
         this.dynamoDBMapper = new DynamoDBMapper(dynamoDBClient);
@@ -143,6 +159,14 @@ public class AWSMobileClient {
      */
     public IdentityManager getIdentityManager() {
         return this.identityManager;
+    }
+
+    /**
+     * Gets the push notifications manager.
+     * @return push manager
+     */
+    public PushManager getPushManager() {
+        return this.pushManager;
     }
 
 

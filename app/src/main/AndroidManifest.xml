@@ -7,6 +7,12 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
+    <!-- Push notifications -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <permission android:name="seproject2.secure_messenger.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="seproject2.secure_messenger.permission.C2D_MESSAGE" />
+
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.READ_PROFILE" />
@@ -42,6 +48,29 @@
             </intent-filter>
 
         </activity>
+
+        <!-- BEGIN - PUSH NOTIFICATIONS WITH GOOGLE CLOUD MESSAGING (GCM) -->
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <category android:name="seproject2.secure_messenger" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".PushListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <!-- END - PUSH NOTIFICATIONS WITH GOOGLE CLOUD MESSAGING (GCM) -->
+
     </application>
 
 </manifest>
