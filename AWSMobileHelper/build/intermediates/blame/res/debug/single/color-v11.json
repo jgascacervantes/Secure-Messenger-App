@@ -1,10 +1,18 @@
 [
     {
-        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

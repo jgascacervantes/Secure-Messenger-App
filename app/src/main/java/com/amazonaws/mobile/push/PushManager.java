@@ -46,6 +46,8 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
     }
 
     private static final String LOG_TAG = PushManager.class.getSimpleName();
+    //private static final String LOG_TAG = "B_MESSAGE";
+
 
     // Name of the shared preferences
     private static final String SHARED_PREFS_FILE_NAME = PushManager.class.getName();
@@ -95,7 +97,7 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
                        final Regions region) {
 
         sharedPreferences = context.getSharedPreferences(SHARED_PREFS_FILE_NAME,
-            Context.MODE_PRIVATE);
+                Context.MODE_PRIVATE);
 
         this.gcmTokenHelper = gcmTokenHelper;
         this.platformApplicationArn = platformApplicationArn;
@@ -109,7 +111,7 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
         // Avoid the situation where a previous download/build of the sample app has
         // been run in a re-used emulator and the platform application arn changed.
         final String previousPlatformApp =
-            sharedPreferences.getString(SHARED_PREFS_PREVIOUS_PLATFORM_APPLICATION, "");
+                sharedPreferences.getString(SHARED_PREFS_PREVIOUS_PLATFORM_APPLICATION, "");
 
         if (!previousPlatformApp.equalsIgnoreCase(platformApplicationArn)) {
             Log.d(LOG_TAG, "SNS platform application ARN changed or not set. Triggering SNS endpoint refresh.");
@@ -162,13 +164,13 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
                 return;
             } finally {
                 sharedPreferences.edit()
-                    .putString(SHARED_PREFS_PREVIOUS_PLATFORM_APPLICATION, platformApplicationArn)
-                    .putString(SHARED_PREFS_KEY_ENDPOINT_ARN, endpointArn)
-                    // Setting push enabled to whether push should be enabled, so a failure
-                    // will not disable push in shared preferences, and the app will retry
-                    // when restarted.
-                    .putBoolean(SHARED_PREFS_PUSH_ENABLED, shouldEnablePush)
-                    .apply();
+                        .putString(SHARED_PREFS_PREVIOUS_PLATFORM_APPLICATION, platformApplicationArn)
+                        .putString(SHARED_PREFS_KEY_ENDPOINT_ARN, endpointArn)
+                        // Setting push enabled to whether push should be enabled, so a failure
+                        // will not disable push in shared preferences, and the app will retry
+                        // when restarted.
+                        .putBoolean(SHARED_PREFS_PUSH_ENABLED, shouldEnablePush)
+                        .apply();
                 informStateListener();
             }
         }
@@ -225,7 +227,7 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
         final SnsTopic defaultTopic = getDefaultTopic();
         for (final SnsTopic topic : topics.values()) {
             final String topicSharedPrefValue =
-                sharedPreferences.getString(topic.getTopicArn(), null);
+                    sharedPreferences.getString(topic.getTopicArn(), null);
             if (topicSharedPrefValue == null) {
                 // The shared preference didn't exist, for the default topic we should auto-subscribe.
                 if (topic == defaultTopic) {
@@ -287,7 +289,7 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
         request.setAttributes(attr);
         sns.setEndpointAttributes(request);
         Log.d(LOG_TAG, String.format("Set push %s for endpoint arn: %s",
-            enabled ? "enabled" : "disabled", endpointArn));
+                enabled ? "enabled" : "disabled", endpointArn));
         this.pushEnabled = enabled;
     }
     /**
@@ -300,9 +302,9 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
         setSNSEndpointEnabled(enabled);
         informStateListener();
         sharedPreferences.edit()
-            .putBoolean(SHARED_PREFS_PUSH_ENABLED, enabled)
-            .putString(SHARED_PREFS_PREVIOUS_PLATFORM_APPLICATION, platformApplicationArn)
-            .apply();
+                .putBoolean(SHARED_PREFS_PUSH_ENABLED, enabled)
+                .putString(SHARED_PREFS_PREVIOUS_PLATFORM_APPLICATION, platformApplicationArn)
+                .apply();
     }
 
     /**
@@ -360,7 +362,7 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
                 @Override
                 public void run() {
                     Log.d(LOG_TAG, "PushStateListener: State changed to : " +
-                        (pushEnabled ? "PUSH ENABLED" : "PUSH DISABLED"));
+                            (pushEnabled ? "PUSH ENABLED" : "PUSH DISABLED"));
 
                     try {
                         pushStateListener.onPushStateChange(PushManager.this, pushEnabled);
@@ -380,5 +382,15 @@ public class PushManager implements GCMTokenHelper.GCMTokenUpdateObserver {
      */
     public boolean isPushEnabled() {
         return pushEnabled;
+    }
+
+
+
+    /*
+        ANYTHING after this it was personally created
+     */
+
+    public AmazonSNS getsnsclient(){
+        return sns;
     }
 }
