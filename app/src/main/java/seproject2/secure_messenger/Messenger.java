@@ -6,9 +6,13 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.amazonaws.AmazonClientException;
+import com.amazonaws.AmazonServiceException;
 import com.amazonaws.auth.AWSCredentialsProviderChain;
 import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.mobile.AWSMobileClient;
+import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBMapper;
+import com.amazonaws.models.nosql.AccountsDO;
 import com.amazonaws.services.sns.AmazonSNSClient;
 import com.amazonaws.auth.ClasspathPropertiesFileCredentialsProvider;
 import com.amazonaws.regions.Region;
@@ -51,16 +55,43 @@ public class Messenger extends AppCompatActivity {
 
         @Override
         protected Void doInBackground(String... message) {
+            // prepare to get endpoint ARN
+            AWSMobileClient.initializeMobileClientIfNecessary(getApplicationContext());
+            DynamoDBMapper mapper = AWSMobileClient.defaultMobileClient().getDynamoDBMapper();
+            AccountsDO recipient = null;
+
             //print MessageId of message published to SNS topic
             PushManager pushManager = AWSMobileClient.defaultMobileClient().getPushManager();
             AmazonSNS snsClient = pushManager.getsnsclient();
             Map<String, SnsTopic> topics = pushManager.getTopics();
             String topicArn = topics.keySet().toArray()[0].toString();
-            //publish to an SNS topic
+
+            // separate target from the message itself
 
             String msg = message[0];
-            PublishRequest publishRequest = new PublishRequest(topicArn, msg);
+            String tokens[] = msg.split("<.>");
+            Log.d("tag", tokens[0]);
+            Log.d("tag", tokens[1]);
+
+            // check if the recipient exists
+            try {
+                recipient = mapper.load(AccountsDO.class, tokens[0]);
+            } catch (AmazonServiceException ase) {
+                System.err.print(ase.getErrorMessage());
+            } catch (AmazonClientException ace) {
+                System.err.println(ace.getMessage());
+            }
+
+            // set up message
+            PublishRequest publishRequest = new PublishRequest();
+            publishRequest.setMessage(tokens[1]);
+            if (recipient != null) {
+                publishRequest.setTargetArn(recipient.getDeviceID());
+            }
+
+            // send the message
             PublishResult publishResult = snsClient.publish(publishRequest);
+
             //Log.i(TAG, "**********" + msg);
 
 
