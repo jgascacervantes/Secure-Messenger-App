@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="seproject2.secure_messenger">
+    package="com.eftimoff.mylibrary">
 
     <!-- Get internet access -->
     <uses-permission android:name="android.permission.INTERNET" />

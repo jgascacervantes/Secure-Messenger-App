@@ -1,82 +1,122 @@
 [
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_fade_in.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_popup_exit.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_slide_out_top.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_popup_enter.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/ricardolesmes/.android/build-cache/e04484299a922fb1aab882fd8a58cea1167e8ec6/output/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Volumes/Mega/1/Secure-Messenger-App/H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Volumes/Mega/1/Secure-Messenger-App/C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\anim\\abc_slide_out_bottom.xml"
     }
 ]

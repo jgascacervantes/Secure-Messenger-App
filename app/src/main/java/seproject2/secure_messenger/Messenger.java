@@ -1,35 +1,19 @@
 package seproject2.secure_messenger;
 
+import android.graphics.Color;
 import android.os.AsyncTask;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
-import com.amazonaws.auth.AWSCredentialsProviderChain;
-import com.amazonaws.auth.BasicAWSCredentials;
-import com.amazonaws.mobile.AWSMobileClient;
-import com.amazonaws.services.sns.AmazonSNSClient;
-import com.amazonaws.auth.ClasspathPropertiesFileCredentialsProvider;
-import com.amazonaws.regions.Region;
-import com.amazonaws.regions.Regions;
-import com.amazonaws.services.sns.model.CreateTopicRequest;
-import com.amazonaws.services.sns.model.CreateTopicResult;
-import com.amazonaws.services.sns.model.SubscribeRequest;
-import com.amazonaws.services.sns.model.PublishRequest;
-import com.amazonaws.services.sns.model.PublishResult;
-import com.amazonaws.services.sns.model.DeleteTopicRequest;
-import com.amazonaws.mobile.push.SnsTopic;
-import android.util.Log;
-import com.amazonaws.mobile.push.PushManager;
-import com.amazonaws.services.sns.AmazonSNS;
-import com.amazonaws.services.sns.AmazonSNSClient;
-import android.util.Log;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import android.view.View.OnClickListener;
 import android.widget.EditText;
 
+import com.amazonaws.mobile.AWSMobileClient;
+import com.amazonaws.mobile.push.PushManager;
+import com.amazonaws.mobile.push.SnsTopic;
+import com.amazonaws.services.sns.AmazonSNS;
+import com.amazonaws.services.sns.model.PublishRequest;
+import com.amazonaws.services.sns.model.PublishResult;
 
 import java.util.Map;
 
@@ -37,15 +21,19 @@ public class Messenger extends AppCompatActivity {
     private static final String TAG = "B_MESSAGE";
     //View.OnClickListener sendClickListener;
 
-    private static Button button_X;
+    private Button button_X;
+    private Button button_Y;
+    private Button button_Z;
+    private boolean encrypted = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_messenger);
 
-
+        pattern();
         SEND();
+        encrypt();
     }
     public class Publish extends AsyncTask<String, Void, Void> {
 
@@ -87,6 +75,38 @@ public class Messenger extends AppCompatActivity {
                 }
         );
         //Intent intent = new Intent(this,activity_contacts_table.class)
+    }
+    public void pattern(){
+        button_Y = (Button)findViewById(R.id.Pattern);
+        button_Y.setOnClickListener(
+                new View.OnClickListener(){
+
+
+                    public void onClick(View s) {
+                       // Intent gotopattern = new Intent(s.getContext(),PatternToShow.class);
+                      //  startActivity(gotopattern);
+                    }
+                }
+        );
+    }
+    public void encrypt(){
+        button_Z = (Button)findViewById(R.id.Encrypt);
+        button_Z.setOnClickListener(
+                new View.OnClickListener(){
+
+
+                    public void onClick(View b) {
+                       if(encrypted=false) {
+                           encrypted = true;
+                           button_Z.setBackgroundColor(Color.GREEN);
+                       }
+                       else{
+                           encrypted=false;
+                       button_Z.setBackgroundColor(Color.WHITE);
+                       }
+                    }
+                }
+        );
     }
 
 
