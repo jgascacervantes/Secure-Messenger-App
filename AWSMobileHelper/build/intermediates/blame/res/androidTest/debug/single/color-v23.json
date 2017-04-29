@@ -1,110 +1,110 @@
 [
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     }
 ]

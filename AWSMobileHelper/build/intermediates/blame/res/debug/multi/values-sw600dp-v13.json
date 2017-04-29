@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 332
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 408
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 467
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 538
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "C:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -168,7 +168,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -187,7 +187,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -206,7 +206,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -225,7 +225,7 @@
                     "endOffset": 332
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -244,7 +244,7 @@
                     "endOffset": 408
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -263,7 +263,7 @@
                     "endOffset": 467
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -282,7 +282,7 @@
                     "endOffset": 538
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -301,7 +301,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -314,7 +314,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -325,7 +325,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -344,7 +344,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -363,7 +363,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -382,7 +382,7 @@
                     "endOffset": 332
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -401,7 +401,7 @@
                     "endOffset": 408
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -420,7 +420,7 @@
                     "endOffset": 467
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 538
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "C:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
