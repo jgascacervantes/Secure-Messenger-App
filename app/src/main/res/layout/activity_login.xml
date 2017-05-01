@@ -7,7 +7,8 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingTop="100dp"
+    android:background="@color/dark_gray"
     tools:context="seproject2.secure_messenger.LoginActivity">
 
     <!-- Login progress -->
@@ -35,6 +36,7 @@
                 android:layout_height="wrap_content">
 
                 <AutoCompleteTextView
+                    android:textColor="@color/white"
                     android:id="@+id/email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -50,6 +52,7 @@
 
                 <EditText
                     android:id="@+id/password"
+                    android:textColor="@color/light_gray_trans"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/prompt_password"
