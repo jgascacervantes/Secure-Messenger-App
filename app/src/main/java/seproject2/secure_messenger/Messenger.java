@@ -1,57 +1,68 @@
 package seproject2.secure_messenger;
 
+import android.graphics.Color;
 import android.os.AsyncTask;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
+import android.view.Gravity;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.PopupWindow;
+import android.widget.RelativeLayout;
 
 import com.amazonaws.AmazonClientException;
 import com.amazonaws.AmazonServiceException;
-import com.amazonaws.auth.AWSCredentialsProviderChain;
-import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.mobile.AWSMobileClient;
+import com.amazonaws.mobile.push.PushManager;
+import com.amazonaws.mobile.push.SnsTopic;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBMapper;
 import com.amazonaws.models.nosql.AccountsDO;
-import com.amazonaws.services.sns.AmazonSNSClient;
-import com.amazonaws.auth.ClasspathPropertiesFileCredentialsProvider;
-import com.amazonaws.regions.Region;
-import com.amazonaws.regions.Regions;
-import com.amazonaws.services.sns.model.CreateTopicRequest;
-import com.amazonaws.services.sns.model.CreateTopicResult;
-import com.amazonaws.services.sns.model.SubscribeRequest;
+import com.amazonaws.services.sns.AmazonSNS;
 import com.amazonaws.services.sns.model.PublishRequest;
 import com.amazonaws.services.sns.model.PublishResult;
-import com.amazonaws.services.sns.model.DeleteTopicRequest;
-import com.amazonaws.mobile.push.SnsTopic;
-import android.util.Log;
-import com.amazonaws.mobile.push.PushManager;
-import com.amazonaws.services.sns.AmazonSNS;
-import com.amazonaws.services.sns.AmazonSNSClient;
-import android.util.Log;
-import android.view.View;
-import android.widget.Button;
-import android.view.View.OnClickListener;
-import android.widget.EditText;
-
 
 import java.util.Map;
+
+import javax.crypto.Cipher;
+import javax.crypto.spec.IvParameterSpec;
+import javax.crypto.spec.SecretKeySpec;
+
+import static seproject2.secure_messenger.AESEncryption.IV;
 
 public class Messenger extends AppCompatActivity {
     private static final String TAG = "B_MESSAGE";
     //View.OnClickListener sendClickListener;
 
-    private static Button button_X;
+    private Button button_X;
+    private Button button_Y;
+    private Button button_Z;
+    private Button btOk;
+    private PopupWindow popupWindow;
+    private LayoutInflater layoutInflater;
+    private boolean encrypted=false;
+    private String encryptionKey = "0123456789abcedf";
+    private EditText edPop;
+    private RelativeLayout relativeLayout;
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_messenger);
+        setContentView(R.layout.activity_messenger3);
+        
 
 
+        pattern();
+        encryptbutton();
         SEND();
     }
-    public class Publish extends AsyncTask<String, Void, Void> {
+    private class Publish extends AsyncTask<String, Void, Void> {
 
         @Override
         protected Void doInBackground(String... message) {
@@ -112,14 +123,102 @@ public class Messenger extends AppCompatActivity {
                         String destiny = f.getText().toString();
                         //Log.i(TAG, "$$$$$$$" + msg);
                         //Log.i(TAG, "$$$$$$$" + destiny);
-                        String Message = destiny + "<*>" + msg;
+                        boolean ispatterned = false;
+                        String Message= "/0";
+                        if(encrypted){
+                            try {
+                                msg = msg +"/0/0/0";
+                                byte [] cipher = encrypt(msg, encryptionKey);
+                                String s = new String(cipher);
+                                Message = destiny + "<*>" + s;
+
+                            }
+                            catch(Exception y){
+                                y.printStackTrace();
+                            }
+                        }
+                        else{
+                            Message = String.valueOf(encrypted)+ "<*>"+ String.valueOf(ispatterned) + "<*>"+ destiny + "<*>" + msg;
+                        }
+
                         new Publish().execute(Message);
                     }
                 }
         );
         //Intent intent = new Intent(this,activity_contacts_table.class)
     }
+public void pattern(){
+    button_Y = (Button)findViewById(R.id.Pattern);
+    button_Y.setOnClickListener(
+            new View.OnClickListener() {
 
+                public void onClick(View v) {
+                    //Intent patterntoshow = new Intent(v.getContext(), PatternToShow.class);
+                   // startActivity(patterntoshow);
+                }
+            }
+    );
+    //Intent intent = new Intent(this,activity_contacts_table.class)
+
+}
+    public void encryptbutton(){
+        button_Z = (Button)findViewById(R.id.Encrypt);
+        button_Z.setOnClickListener(
+                new View.OnClickListener() {
+                    public void onClick(View v) {
+                        if(!encrypted){
+                            encrypted=true;
+                            button_Z.setBackgroundColor(Color.GREEN);
+                            //EditText e = (EditText) findViewById(R.id.message);
+                           // String msg = e.getText().toString();
+
+                            layoutInflater = (LayoutInflater)getApplicationContext().getSystemService(LAYOUT_INFLATER_SERVICE);
+                            ViewGroup popupView = (ViewGroup)layoutInflater.inflate(R.layout.encryption_key_pop_up,null);
+
+                            popupWindow = new PopupWindow(popupView,android.view.ViewGroup.LayoutParams.WRAP_CONTENT,android.view.ViewGroup.LayoutParams.WRAP_CONTENT,false);
+                            edPop = (EditText)popupView.findViewById(R.id.edit_pop);
+                            btOk  = (Button)popupView.findViewById(R.id.btok);
+                            edPop.requestFocus();
+                            relativeLayout = (RelativeLayout)findViewById(R.id.messenger3);
+                            edPop.setText(encryptionKey);
+                           popupWindow.showAtLocation(relativeLayout, Gravity.CENTER,500,500);
+                            popupWindow.setOutsideTouchable(false);
+
+                            popupWindow.setFocusable(true);
+                            popupWindow.update();
+                            btOk.setOnClickListener(new View.OnClickListener()
+                            {
+                            public void onClick(View v)
+                            {
+                                encryptionKey= edPop.getText().toString();
+                                popupWindow.dismiss();
+                            }
+                        });
+
+
+                        }
+                        else{
+                            encrypted= false;
+                            button_Z.setBackgroundColor(Color.WHITE);
+                        }
+
+                    }
+                });
+        //Intent intent = new Intent(this,activity_contacts_table.class)
+    }
+
+
+    public static byte[] encrypt(String plainText, String encryptionKey) throws Exception {
+
+        Cipher cipher = Cipher.getInstance("AES/CBC/NoPadding", "SunJCE");
+
+        SecretKeySpec key = new SecretKeySpec(encryptionKey.getBytes("UTF-8"), "AES");
+
+        cipher.init(Cipher.ENCRYPT_MODE, key,new IvParameterSpec(IV.getBytes("UTF-8")));
+
+        return cipher.doFinal(plainText.getBytes("UTF-8"));
+
+    }
 
 }
 

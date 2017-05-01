@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "outputFile": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 121
                 },
                 "from": {
-                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 192
                 },
                 "from": {
-                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 332
                 },
                 "from": {
-                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 400
                 },
                 "from": {
-                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,245 +106,7 @@
                     "endOffset": 468
                 },
                 "from": {
-                    "file": "H:\\Users\\ricardolesmes\\.android\\build-cache\\e04484299a922fb1aab882fd8a58cea1167e8ec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 405,
-                        "endColumn": 67,
-                        "endOffset": 468
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 70,
-                    "endOffset": 121
-                },
-                "from": {
-                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 70,
-                        "endOffset": 121
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 126,
-                    "endColumn": 70,
-                    "endOffset": 192
-                },
-                "from": {
-                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 126,
-                        "endColumn": 70,
-                        "endOffset": 192
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 197,
-                    "endColumn": 69,
-                    "endOffset": 262
-                },
-                "from": {
-                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 197,
-                        "endColumn": 69,
-                        "endOffset": 262
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 267,
-                    "endColumn": 69,
-                    "endOffset": 332
-                },
-                "from": {
-                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 267,
-                        "endColumn": 69,
-                        "endOffset": 332
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 337,
-                    "endColumn": 67,
-                    "endOffset": 400
-                },
-                "from": {
-                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 337,
-                        "endColumn": 67,
-                        "endOffset": 400
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 405,
-                    "endColumn": 67,
-                    "endOffset": 468
-                },
-                "from": {
-                    "file": "H:\\Volumes\\Mega\\1\\Secure-Messenger-App\\C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 405,
-                        "endColumn": 67,
-                        "endOffset": 468
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "H:\\NFTapp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 70,
-                    "endOffset": 121
-                },
-                "from": {
-                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 70,
-                        "endOffset": 121
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 126,
-                    "endColumn": 70,
-                    "endOffset": 192
-                },
-                "from": {
-                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 126,
-                        "endColumn": 70,
-                        "endOffset": 192
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 197,
-                    "endColumn": 69,
-                    "endOffset": 262
-                },
-                "from": {
-                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 197,
-                        "endColumn": 69,
-                        "endOffset": 262
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 267,
-                    "endColumn": 69,
-                    "endOffset": 332
-                },
-                "from": {
-                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 267,
-                        "endColumn": 69,
-                        "endOffset": 332
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 337,
-                    "endColumn": 67,
-                    "endOffset": 400
-                },
-                "from": {
-                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 337,
-                        "endColumn": 67,
-                        "endOffset": 400
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 405,
-                    "endColumn": 67,
-                    "endOffset": 468
-                },
-                "from": {
-                    "file": "C:\\Users\\James Nicholas\\.android\\build-cache\\9eb192572f04c7710fd7e2c2e89e418be2708bfd\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

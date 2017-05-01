@@ -2,7 +2,14 @@ package seproject2.secure_messenger;
 
 import android.os.Bundle;
 import android.util.Log;
+
 import com.google.android.gms.gcm.GcmListenerService;
+
+import javax.crypto.Cipher;
+import javax.crypto.spec.IvParameterSpec;
+import javax.crypto.spec.SecretKeySpec;
+
+import static seproject2.secure_messenger.AESEncryption.IV;
 
 /** A service that listens to GCM notifications. */
 public class PushListenerService extends GcmListenerService {
@@ -32,7 +39,20 @@ public class PushListenerService extends GcmListenerService {
     @Override
     public void onMessageReceived(final String from, final Bundle data) {
         String message = getMessage(data);
+        //Log.d(LOG_TAG,"Encrypted?"+)
         Log.d(LOG_TAG, "From: " + from);
         Log.d(LOG_TAG, "Message: " + message);
+
+    }
+    public static String decrypt(byte[] cipherText, String encryptionKey) throws Exception{
+
+        Cipher cipher = Cipher.getInstance("AES/CBC/NoPadding", "SunJCE");
+
+        SecretKeySpec key = new SecretKeySpec(encryptionKey.getBytes("UTF-8"), "AES");
+
+        cipher.init(Cipher.DECRYPT_MODE, key,new IvParameterSpec(IV.getBytes("UTF-8")));
+
+        return new String(cipher.doFinal(cipherText),"UTF-8");
+
     }
 }
