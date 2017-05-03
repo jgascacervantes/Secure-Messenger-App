@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v18\\values-v18.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 48,
-                        "endOffset": 99
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\justi_000\\Documents\\Justins Docs\\School\\Spring2017\\SoftwareEngineering\\SecureMessengerApp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
@@ -36,6 +12,54 @@
                 },
                 "from": {
                     "file": "C:\\Users\\justi_000\\.android\\build-cache\\437d4e4d9c93b9f6a1edd9ecb8a72bdcf1c1735f\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

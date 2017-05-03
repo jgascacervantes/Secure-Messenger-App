@@ -12,20 +12,20 @@
         "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",

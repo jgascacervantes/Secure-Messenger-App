@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",

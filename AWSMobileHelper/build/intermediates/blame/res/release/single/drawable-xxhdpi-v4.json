@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
