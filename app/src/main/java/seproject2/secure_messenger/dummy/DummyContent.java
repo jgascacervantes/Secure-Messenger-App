@@ -37,6 +37,11 @@ public class DummyContent {
         ITEM_MAP.put(item.id, item);
     }
 
+    public static void remItem(DummyItem item) {
+        ITEMS.remove(item);
+        ITEM_MAP.remove(item.id);
+    }
+
     private static DummyItem createDummyItem(int position) {
         return new DummyItem(String.valueOf(position), "Message " + position, makeDetails(position));
     }

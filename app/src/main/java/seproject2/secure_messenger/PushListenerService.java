@@ -10,6 +10,10 @@ import android.widget.RelativeLayout;
 
 import com.google.android.gms.gcm.GcmListenerService;
 
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
+
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
@@ -32,6 +36,8 @@ public class PushListenerService extends GcmListenerService {
     private RelativeLayout relativeLayout;
     private static UIListener mUIListener;
     private MainActivity mainActivity;
+    private final ScheduledExecutorService scheduler =
+            Executors.newScheduledThreadPool(1);
 
     /**
      * Helper method to extract SNS message from bundle.
@@ -61,10 +67,17 @@ public class PushListenerService extends GcmListenerService {
     public void onMessageReceived(final String from, final Bundle data) {
         //mainActivity.onupdate();
         String message = getMessage(data);
-        DummyContent.DummyItem item = new DummyContent.DummyItem(from, message, message);
+        final DummyContent.DummyItem item = new DummyContent.DummyItem(from, message, message);
         DummyContent.addItem(item);
         Log.d(LOG_TAG, DummyContent.ITEMS.toString());
         mUIListener.onUIUpdate(from, message);
+
+        scheduler.schedule(new Runnable() { public void run() {
+            DummyContent.remItem(item);
+            mUIListener.onUIUpdate(null, null);
+        }}, 60 * 5, TimeUnit.SECONDS);
+
+
         if(encrypted){
 
         }
