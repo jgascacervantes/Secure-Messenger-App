@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="50dp"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+
+
+        <seproject2.secure_messenger.tenpointpattern.PatternView
+            xmlns:patternview="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/patternView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            patternview:circleSize="1dp"
+            patternview:pathColor="@color/primary_dark_material_light"
+            patternview:circleColor="@color/highlighted_text_material_light"
+            patternview:dotColor="@color/highlighted_text_material_light"
+            patternview:gridRows="1"
+            patternview:gridColumns="1"
+            tools:ignore="PrivateResource"
+            />
+
+</LinearLayout>

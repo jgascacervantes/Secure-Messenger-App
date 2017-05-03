@@ -138,7 +138,7 @@ public class Messenger extends AppCompatActivity {
                             }
                         }
                         else{
-                            Message = String.valueOf(encrypted)+ "<*>"+ String.valueOf(ispatterned) + "<*>"+ destiny + "<*>" + msg;
+                            Message =  destiny + "<*>" + msg;
                         }
 
                         new Publish().execute(Message);

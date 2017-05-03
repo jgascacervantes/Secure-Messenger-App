@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/messenger3"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/destiny"
+        android:layout_width="324dp"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="10"
+        android:padding="5dip"
+        android:background="@drawable/rounded_edittext"
+        android:layout_gravity="center"
+
+        android:layout_above="@+id/message"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp" />
+
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="351dp"
+        android:layout_height="308dp"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:maxLines="10"
+        android:padding="5dip"
+
+        android:layout_above="@+id/Encrypt"
+        android:layout_alignLeft="@+id/Pattern"
+        android:layout_alignStart="@+id/Pattern" />
+
+    <Button
+        android:id="@+id/Encrypt"
+        android:layout_width="94dp"
+        android:layout_height="77dp"
+        android:background="@android:color/white"
+        android:text="Encrypt"
+
+        android:layout_alignTop="@+id/send"
+        android:layout_toRightOf="@+id/send"
+        android:layout_toEndOf="@+id/send" />
+
+    <Button
+        android:id="@+id/Pattern"
+        android:layout_width="91dp"
+        android:layout_height="76dp"
+        android:background="@android:color/white"
+        android:text="Pattern"
+
+        android:layout_alignBottom="@+id/Encrypt"
+        android:layout_toLeftOf="@+id/send"
+        android:layout_toStartOf="@+id/send" />
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="165dp"
+        android:layout_height="76dp"
+        android:text="Send"
+        android:layout_gravity="center"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp" />
+</RelativeLayout>

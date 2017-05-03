@@ -2,6 +2,11 @@ package seproject2.secure_messenger;
 
 import android.os.Bundle;
 import android.util.Log;
+import android.view.LayoutInflater;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.PopupWindow;
+import android.widget.RelativeLayout;
 
 import com.google.android.gms.gcm.GcmListenerService;
 
@@ -9,14 +14,21 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
-import seproject2.secure_messenger.dummy.DummyContent;
-
 import static seproject2.secure_messenger.AESEncryption.IV;
 
 /** A service that listens to GCM notifications. */
 public class PushListenerService extends GcmListenerService {
 
     private static final String LOG_TAG = PushListenerService.class.getSimpleName();
+    private Button button_Z;
+    private Button btOk;
+    private PopupWindow popupWindow;
+    private LayoutInflater layoutInflater;
+    private boolean encrypted=false;
+    private String encryptionKey;
+    private EditText edPop;
+    private RelativeLayout relativeLayout;
+    private MainActivity mainActivity;
 
     /**
      * Helper method to extract SNS message from bundle.
@@ -40,10 +52,16 @@ public class PushListenerService extends GcmListenerService {
      */
     @Override
     public void onMessageReceived(final String from, final Bundle data) {
+        mainActivity.onupdate();
         String message = getMessage(data);
-        DummyContent.DummyItem item = new DummyContent.DummyItem(from, message, message);
-        DummyContent.addItem(item);
+        if(encrypted){
+           /*
+*/
+
+        }
+
         //Log.d(LOG_TAG,"Encrypted?"+)
+
         Log.d(LOG_TAG, "From: " + from);
         Log.d(LOG_TAG, "Message: " + message);
 
@@ -59,4 +77,5 @@ public class PushListenerService extends GcmListenerService {
         return new String(cipher.doFinal(cipherText),"UTF-8");
 
     }
+
 }
