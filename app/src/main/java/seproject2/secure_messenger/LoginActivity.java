@@ -38,6 +38,8 @@ import com.amazonaws.models.nosql.AccountsDO;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 
 import static android.Manifest.permission.READ_CONTACTS;
 
@@ -333,12 +335,13 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
             if(user != null) {
                 //if (user.getDeviceID().equals(deviceID)) //TODO: we can check for deviceID using this
-                    return user.getPassword().equals(mPassword);
+                    return user.getPassword().equals(md5(mPassword));
             }
+
             /*
             user = new AccountsDO();
-            user.setDeviceID(deviceID);
-            user.setPassword(mPassword);
+            user.setDeviceID("unimportant");
+            user.setPassword(md5(mPassword));
             user.setRights(true);
             user.setUsername(mEmail);
             try{
@@ -372,6 +375,25 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         protected void onCancelled() {
             mAuthTask = null;
             showProgress(false);
+        }
+
+        public String md5(String s) {
+            try {
+                // Create MD5 Hash
+                MessageDigest digest = java.security.MessageDigest.getInstance("MD5");
+                digest.update(s.getBytes());
+                byte messageDigest[] = digest.digest();
+
+                // Create Hex String
+                StringBuffer hexString = new StringBuffer();
+                for (int i=0; i<messageDigest.length; i++)
+                    hexString.append(Integer.toHexString(0xFF & messageDigest[i]));
+                return hexString.toString();
+
+            } catch (NoSuchAlgorithmException e) {
+                e.printStackTrace();
+            }
+            return "";
         }
     }
 }
