@@ -21,7 +21,7 @@ import java.util.List;
  * Activities containing this fragment MUST implement the {@link OnListFragmentInteractionListener}
  * interface.
  */
-public class InboxFragment extends Fragment {
+public class InboxFragment extends android.app.Fragment {
 
     // TODO: Customize parameter argument names
     private static final String ARG_COLUMN_COUNT = "column-count";
@@ -37,7 +37,7 @@ public class InboxFragment extends Fragment {
     }
 
     // TODO: Customize parameter initialization
-    @SuppressWarnings("unused")
+
     public static InboxFragment newInstance(int columnCount) {
         InboxFragment fragment = new InboxFragment();
         Bundle args = new Bundle();

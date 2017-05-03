@@ -1,5 +1,208 @@
 [
     {
+        "outputFile": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 70,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 82,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 119,
+                    "endOffset": 1432
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1437,
+                    "endColumn": 62,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1654,
+                    "endColumn": 62,
+                    "endOffset": 1712
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1717,
+                    "endColumn": 131,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\justi_000\\Documents\\Justins Docs\\School\\Spring2017\\SoftwareEngineering\\SecureMessengerApp\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
@@ -406,7 +609,7 @@
         ]
     },
     {
-        "outputFile": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -418,7 +621,7 @@
                     "endOffset": 326
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -438,7 +641,7 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -457,7 +660,7 @@
                     "endOffset": 480
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -477,7 +680,7 @@
                     "endOffset": 890
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -498,7 +701,7 @@
                     "endOffset": 1312
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -518,7 +721,7 @@
                     "endOffset": 1432
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -537,7 +740,7 @@
                     "endOffset": 1495
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -557,7 +760,7 @@
                     "endOffset": 1649
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -577,7 +780,7 @@
                     "endOffset": 1712
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -596,210 +799,7 @@
                     "endOffset": 1844
                 },
                 "from": {
-                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jorge\\.android\\build-cache\\08f93770cf0d3e01df2319b4a4fe5b92924aa0e0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1717,
-                        "endColumn": 131,
-                        "endOffset": 1844
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\jonhe\\AndroidStudioProjects\\Secure-Messenger-App\\AWSMobileHelper\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 6,
-                    "endColumn": 12,
-                    "endOffset": 326
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 6,
-                        "endColumn": 12,
-                        "endOffset": 326
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 331,
-                    "endColumn": 70,
-                    "endOffset": 397
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 331,
-                        "endColumn": 70,
-                        "endOffset": 397
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 402,
-                    "endColumn": 82,
-                    "endOffset": 480
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 402,
-                        "endColumn": 82,
-                        "endOffset": 480
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 485,
-                    "endLine": 14,
-                    "endColumn": 12,
-                    "endOffset": 890
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 485,
-                        "endLine": 14,
-                        "endColumn": 12,
-                        "endOffset": 890
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 895,
-                    "endLine": 20,
-                    "endColumn": 12,
-                    "endOffset": 1312
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 895,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 1312
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1317,
-                    "endColumn": 119,
-                    "endOffset": 1432
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1317,
-                        "endColumn": 119,
-                        "endOffset": 1432
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1437,
-                    "endColumn": 62,
-                    "endOffset": 1495
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1437,
-                        "endColumn": 62,
-                        "endOffset": 1495
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1500,
-                    "endLine": 25,
-                    "endColumn": 12,
-                    "endOffset": 1649
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1500,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 1649
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1654,
-                    "endColumn": 62,
-                    "endOffset": 1712
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1654,
-                        "endColumn": 62,
-                        "endOffset": 1712
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1717,
-                    "endColumn": 131,
-                    "endOffset": 1844
-                },
-                "from": {
-                    "file": "C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "/Users/jorge/AndroidStudioProjects/Secure-Messenger-App/C:\\Users\\jonhe\\.android\\build-cache\\137d90fff1e69782704bd00d557f595513bc37a0\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
