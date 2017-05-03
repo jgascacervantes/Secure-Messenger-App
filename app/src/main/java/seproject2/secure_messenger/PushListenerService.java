@@ -9,6 +9,8 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
+import seproject2.secure_messenger.dummy.DummyContent;
+
 import static seproject2.secure_messenger.AESEncryption.IV;
 
 /** A service that listens to GCM notifications. */
@@ -39,6 +41,8 @@ public class PushListenerService extends GcmListenerService {
     @Override
     public void onMessageReceived(final String from, final Bundle data) {
         String message = getMessage(data);
+        DummyContent.DummyItem item = new DummyContent.DummyItem(from, message, message);
+        DummyContent.addItem(item);
         //Log.d(LOG_TAG,"Encrypted?"+)
         Log.d(LOG_TAG, "From: " + from);
         Log.d(LOG_TAG, "Message: " + message);
